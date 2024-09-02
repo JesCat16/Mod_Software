@@ -157,6 +157,9 @@
         <mxCell id="nKHrAZ0CVxDdouCgg1hL-21" value="UC04 - Manutenção do Fimes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nKHrAZ0CVxDdouCgg1hL-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sócio não interage com o sistema!!!&lt;/h1&gt;&lt;p&gt;Somente o funcionário é o único que interage com o sistema.&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="610" width="180" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
